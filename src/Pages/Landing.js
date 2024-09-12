@@ -40,11 +40,11 @@ export default function Landing() {
 				<Grid item md={6} sm={12} xs={12} my="auto">
 					<Box
 						component="img"
-						src="/logo.png"
-						sx={{ width: { md: "10%", sm: "10%", xs: "15%" }, mb: 4 }}
+						src="/Frame.png"
+						sx={{ width: { md: "20%", sm: "20%", xs: "25%" }, mb: 4 }}
 					/>
 					<Typography variant="h3" sx={{ fontWeight: 700 }}>
-						Stay connected with RelaySMS
+						Stay connected with NewSMS
 					</Typography>
 					<Typography variant="h5" sx={{ mt: 5 }}>
 						Open-source tool that enables you to communicate with various online services using
@@ -97,7 +97,7 @@ export default function Landing() {
 			{/* About Section */}
 			<Box textAlign="center" sx={{ pt: { md: 20, xs: 7 }, px: { md: 30, xs: 3 } }}>
 				<Typography variant="h4" sx={{ fontWeight: 700, fontSize: { xs: "25px", md: "33px" } }}>
-					With RelaySMS, you can send emails, tweet and chat on telegram without an active internet
+					With NewSMS, you can send emails, tweet and chat on telegram without an active internet
 					connection.
 				</Typography>
 				<Typography variant="h5" sx={{ p: { md: 5, xs: 2 } }}>
@@ -146,7 +146,7 @@ export default function Landing() {
 								/>
 
 								<Typography variant="body1">
-									RelaySMS transmits messages in securely encrypted formats. This secures every
+									NewSMS transmits messages in securely encrypted formats. This secures every
 									communication from being accessed by intermediate parties while in transit.
 								</Typography>
 							</Box>
@@ -172,7 +172,7 @@ export default function Landing() {
 								/>
 
 								<Typography variant="body1">
-									Every component of RelaySMS is open sourced! From the mobile app to the routing
+									Every component of NewSMS is open sourced! From the mobile app to the routing
 									mechanisms we use to get your SMS messages to reach your intended platforms
 								</Typography>
 							</Box>
@@ -199,8 +199,8 @@ export default function Landing() {
 								/>
 
 								<Typography variant="body1">
-									RelaySMS is built to work in decentralized models. Anyone can host a RelaySMS
-									server. It’s as easy as understanding how to use it
+									NewSMS is built to work in decentralized models. Anyone can host a NewSMS It’s as
+									easy as understanding how to use it
 								</Typography>
 							</Box>
 						</motion.div>
@@ -220,7 +220,7 @@ export default function Landing() {
 								color: "black"
 							}}
 						>
-							RelaySMS is actively used in over 60 countries.
+							NewSMS is actively used in over 60 countries.
 						</Typography>
 					</Grid>
 					<Grid item md={7} sx={{ justifyContent: "center", display: "flex", mx: "auto" }}>
@@ -258,7 +258,7 @@ export default function Landing() {
 								variant="h3"
 								sx={{ fontWeight: 700, fontSize: { md: "48px", xs: "33px" } }}
 							>
-								Get familiar with RelaySMS
+								Get familiar with NewSMS
 							</Typography>
 						</Grid>
 					</Grid>
@@ -275,7 +275,7 @@ export default function Landing() {
 				>
 					<Grid item md={12} xs={12}>
 						<Typography variant="h5" sx={{ fontWeight: 700, py: 2 }}>
-							Whats new on RelaySMS ?
+							Whats new on NewSMS ?
 						</Typography>
 					</Grid>
 					<Grid item md={4} sm={6} xs={12}>

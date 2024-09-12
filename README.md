@@ -1,6 +1,6 @@
-# RelaySMS
+# NewSMS
 
-Welcome to the RelaySMS project homepage!
+Welcome to the NewSMS project homepage!
 
 This project was crafted with [React](https://github.com/facebook/create-react-app) for a seamless development experience.
 
@@ -19,7 +19,7 @@ This will launch the application in development mode. You can then access it in 
 
 ## Contribution Guide
 
-We welcome contributions to RelaySMS! To contribute, please follow these steps:
+We welcome contributions to NewSMS! To contribute, please follow these steps:
 
 1. Fork the repository to your GitHub account.
 2. Clone the forked repository to your local machine.
@@ -47,4 +47,4 @@ In addition to React, we utilized the following packages to enhance functionalit
 - MUI
 - React Icons
 
-Feel free to explore and contribute to make RelaySMS even better!
+Feel free to explore and contribute to make NewSMS even better!

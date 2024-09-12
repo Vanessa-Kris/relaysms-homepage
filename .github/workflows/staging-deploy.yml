@@ -1,4 +1,4 @@
-name: Deploy relaysms homepage on Server (staging)
+name: Deploy NewSMS homepage on Server (staging)
 on:
   push:
     branches:

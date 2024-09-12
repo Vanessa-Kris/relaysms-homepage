@@ -33,7 +33,7 @@ function MobileNav({ darkMode, toggleDarkMode }) {
 			>
 				<Box display="flex">
 					<Typography variant="body1" sx={{ fontWeight: 600, px: 2 }}>
-						RelaySMS
+						NewSMS
 					</Typography>
 				</Box>{" "}
 				<Toolbar disableGutters>

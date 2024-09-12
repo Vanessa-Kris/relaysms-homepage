@@ -34,13 +34,11 @@ export default function Faqs() {
 					id="panel1-header"
 				>
 					<Typography variant="body1" sx={{ fontWeight: 700 }}>
-						Is RelaySMS same as SMSWithoutBorders?
+						Lorem Ipsum Dolor Sit Amet
 					</Typography>
 				</AccordionSummary>
 				<AccordionDetails>
-					<Typography>
-						RelaySMS is one of the biggest tools provided by SMSWithoutBorders
-					</Typography>
+					<Typography>NewSMS is one of the biggest tools provided by Lorem Ipsum</Typography>
 				</AccordionDetails>
 			</Accordion>
 			<Accordion>
@@ -50,12 +48,12 @@ export default function Faqs() {
 					id="panel2-header"
 				>
 					<Typography variant="body1" sx={{ fontWeight: 700 }}>
-						Is RelaySMS free?
+						Is NewSMS free?
 					</Typography>
 				</AccordionSummary>
 				<AccordionDetails>
 					<Typography>
-						Yes you can get RelaySMS app for free{" "}
+						Yes you can get NewSMS app for free{" "}
 						<span style={{ color: "skyblue" }}>
 							{" "}
 							<a href="/download" target="_blank">

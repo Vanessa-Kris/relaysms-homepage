@@ -49,12 +49,12 @@ export default function Help() {
 	};
 
 	const labels = [
-		"Installing RelaySMS",
+		"Installing NewSMS",
 		"How to use App",
 		"Features and Functionality",
 		"Relay Bridges",
 		"Selecting reliable gateway clients",
-		"How to update the RelaySMS app"
+		"How to update the NewSMS app"
 	];
 
 	return (
@@ -105,7 +105,7 @@ export default function Help() {
 									alignItems: "start",
 									py: 3
 								}}
-								label="Installing RelaySMS"
+								label="Installing NewSMS"
 								{...a11yProps(0)}
 							/>
 							<Tab
@@ -155,7 +155,7 @@ export default function Help() {
 									alignItems: "start",
 									py: 3
 								}}
-								label="How to update the RelaySMS app"
+								label="How to update the NewSMS app"
 								{...a11yProps(5)}
 							/>
 						</Tabs>
@@ -177,7 +177,7 @@ export default function Help() {
 							Selecting reliable gateway clients
 						</TabPanel>
 						<TabPanel value={value} index={5}>
-							How to update the RelaySMS app
+							How to update the NewSMS app
 						</TabPanel>
 					</Grid>
 				</Grid>

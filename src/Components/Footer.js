@@ -22,12 +22,12 @@ export default function Footer() {
 							<Box sx={{ display: "flex", pt: 3 }}>
 								<Box
 									component="img"
-									src="/logo.png"
+									src="/Frame.png"
 									sx={{ width: "40px", mx: 2 }}
 									alt="smswithoutborders logo"
 								/>
 								<Typography variant="h5" sx={{ fontWeight: 600 }}>
-									RelaySMS
+									NewSMS
 								</Typography>
 							</Box>
 							<Typography variant="body2" sx={{ px: { md: 4, xs: 2 }, py: 2 }}>
